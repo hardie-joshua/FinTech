@@ -39,12 +39,12 @@ if __name__ == '__main__':
 <!DOCTYPE html>
 <html>
 <head>
-    <title>Fintech Platform</title>
+    <title>Fintech Hub</title>
     <link rel="stylesheet" href="style.css">
 </head>
 <body>
     <div class="container">
-        <h1>Welcome to the Fintech Platform</h1>
+        <h1>Welcome to the Fintech hub</h1>
         <button id="create-account">Create Account</button>
         <button id="deposit">Deposit</button>
         <div id="account-info"></div>
